@@ -5,9 +5,9 @@
 
 struct studenti{
 	
-		char *nome;
-		char *sesso;
-		int  *data;
+	char *nome;
+	char *sesso;
+	int  *data;
 		
 	};
 
