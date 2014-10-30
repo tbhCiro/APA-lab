@@ -9,7 +9,7 @@ struct studenti{
 	char *sesso;
 	int  *data;
 		
-	};
+};
 
 void InsertionSortS(struct studenti *stn, int *data , int n);
 int main(int argc , char *argv[]){
