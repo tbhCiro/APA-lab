@@ -17,7 +17,6 @@ struct nodo3
 	char matricola3[N];
 	struct voti3 voto3;
 	lista3 succ3;
-	
 }nodo3;
 
 lista3 t3 ,first3  ,a3 ;
